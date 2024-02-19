@@ -1,0 +1,28 @@
+*{
+   text-decoration: none;
+}
+.navbar{
+   background-color: black;
+   width: 100vw;
+   height: 52px;
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   a{
+      color: white;
+      font-weight: 700;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      
+   }
+   a:hover{
+      color: orangered;
+   }
+}
+
+.l2{
+   font-size: 12px;
+   font-weight: 500;
+}
+
